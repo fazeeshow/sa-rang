@@ -357,4 +357,4 @@ const toggleSound = () => {
     on = !on;
   }
 }
-el.sound.addEventListener('click', toggleSound());
+el.sound.addEventListener('click', toggleSound()); 
